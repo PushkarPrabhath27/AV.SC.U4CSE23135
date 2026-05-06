@@ -45,6 +45,11 @@ The system is architected as a distributed monorepo, emphasizing modularity, obs
 - **Weight Assignments**: Placement (3) > Result (2) > Event (1). This ensures categorical precedence.
 - **Data Structure**: Leveraged a Min-Heap of size 10 to maintain the top notifications in memory with O(log n) update complexity, ensuring the interface remains fluid even during high notification throughput.
 
+#### Backend API Verification
+Below is the output from the priority endpoint, demonstrating the algorithmic scoring in action:
+
+![Priority API Response](assets/image.png)
+
 ### Stage 7: Production-Grade Frontend Implementation
 **Objective**: Deliver a responsive, state-aware interface that distinguishes between new and viewed alerts.
 - **State Management**: Implemented a robust React context for tracking unread states and managing real-time WebSocket updates.
@@ -69,6 +74,11 @@ Users can seamlessly toggle between different notification types to find relevan
 The dedicated Priority Inbox utilizes our algorithmic scoring to surface high-importance notifications first.
 
 ![Priority Inbox View](assets/Screenshot%202026-05-06%20161912.png)
+
+#### Video Demonstration
+A comprehensive walkthrough of the application's functionality, including real-time updates and priority filtering.
+
+![Application Walkthrough](assets/Screen%20Recording%202026-05-06%20162013.mp4)
 
 ---
 
