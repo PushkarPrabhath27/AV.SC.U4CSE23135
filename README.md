@@ -51,6 +51,25 @@ The system is architected as a distributed monorepo, emphasizing modularity, obs
 - **Responsive Design**: Utilized Material UI and Vanilla CSS to provide a consistent experience across mobile and desktop breakpoints.
 - **Feature Set**: Built-in categorical filtering, priority-only toggle, and dynamic unread badge indicators.
 
+### Interface Gallery
+
+#### Primary Dashboard
+The main interface providing a unified view of all campus activities.
+
+![All Notifications View](assets/Screenshot%202026-05-06%20160918.png)
+
+#### Categorical Filtering
+Users can seamlessly toggle between different notification types to find relevant information quickly.
+
+| Placement Filter | Result Filter | Event Filter |
+|---|---|---|
+| ![Placement Filter](assets/Screenshot%202026-05-06%20161232.png) | ![Result Filter](assets/Screenshot%202026-05-06%20161243.png) | ![Event Filter](assets/Screenshot%202026-05-06%20161256.png) |
+
+#### Priority Intelligence
+The dedicated Priority Inbox utilizes our algorithmic scoring to surface high-importance notifications first.
+
+![Priority Inbox View](assets/Screenshot%202026-05-06%20161912.png)
+
 ---
 
 ## Telemetry and Observability
