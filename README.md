@@ -78,10 +78,11 @@ The dedicated Priority Inbox utilizes our algorithmic scoring to surface high-im
 #### Video Demonstration
 A comprehensive walkthrough of the application's functionality, including real-time updates and priority filtering.
 
-<video width="100%" controls>
-  <source src="assets/walkthrough.mp4" type="video/mp4">
-  [Click here to view the video walkthrough](assets/walkthrough.mp4)
-</video>
+[![Watch the video walkthrough](assets/Screenshot%202026-05-06%20161912.png)](https://github.com/PushkarPrabhath27/AV.SC.U4CSE23135/raw/main/assets/walkthrough.mp4)
+
+*(Click the image above or [this link](https://github.com/PushkarPrabhath27/AV.SC.U4CSE23135/raw/main/assets/walkthrough.mp4) to view the video walkthrough)*
+
+![Application Walkthrough](https://github.com/PushkarPrabhath27/AV.SC.U4CSE23135/raw/main/assets/walkthrough.mp4)
 
 ---
 
