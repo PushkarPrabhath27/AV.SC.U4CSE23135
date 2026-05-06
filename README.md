@@ -78,7 +78,7 @@ The dedicated Priority Inbox utilizes our algorithmic scoring to surface high-im
 #### Video Demonstration
 A comprehensive walkthrough of the application's functionality, including real-time updates and priority filtering.
 
-![Application Walkthrough](assets/Screen%20Recording%202026-05-06%20162013.mp4)
+<video src="assets/Screen%20Recording%202026-05-06%20162013.mp4" width="100%" controls></video>
 
 ---
 
